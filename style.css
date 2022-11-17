@@ -1,0 +1,121 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.container{
+	width: 1140px;
+	margin: auto;
+}
+.header{
+
+}
+.nav{
+	width: 100%;
+	float: left;
+	padding: 24px;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.menue{
+width: 60%;
+float: left;
+line-height:36px ;
+}
+.button{
+	width: 20%;
+	float: left;
+}
+.logo img{
+
+}
+.menue ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 32px;
+	
+
+}
+.menue ul li a{
+	font-size: 18px;
+	color: black;
+	font-weight: 600;
+	color: #2B2842;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+
+
+}
+.button button{
+	background: #FF6162;
+	border: none;
+	color: white;
+	padding: 12px 24px;
+    font-weight: bold;
+    border-radius:5px ;
+
+
+}
+.banner{
+	width: 100%;
+	float: left;
+
+}
+.banner-text{
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+}
+
+.left{
+	width: 40%;
+	float: left;
+	margin: 50px 2px;
+}
+.right{
+	width:50% ;
+	float: left;
+}
+.left h1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 44px;
+	line-height: 50px;
+}
+.left p{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	color:#72787E ;
+	margin-top: 25px;
+
+}
+.Social-media{
+margin-top:25px ;
+}
+.Social-media ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 12px;
+
+
+
+}
+.Social-media ul li a i {
+font-size: 25px;
+color: white;
+height: 60px;
+width: 60px;
+background: #3A424A;
+text-align: center;
+line-height: 60px;
+border-radius: 50%;
+}
+.Social-media ul li a i:hover{
+	background: grey;
+	transform: rotate(360deg);
+	transition: 0.5s;
+}
+
